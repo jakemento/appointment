@@ -25,8 +25,10 @@ $(document).ready(function() {
     $("#appointment-header").show();
     $("#viewAppointment").hide();
     $(".back-btn").hide();
-    // $("#appointment-form").getElementById("date").reset();
-    // $("#appointment-form").getElementById("start").reset();
-    // $("#appointment-form").getElementById("end").reset();
+    $("input#name").val('');
+    $("input#date").val('');
+    $("input#start").val('');
+    $("input#end").val('');
+
   });
 });
