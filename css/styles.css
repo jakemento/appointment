@@ -1,0 +1,22 @@
+#viewAppointment {
+  display: none;
+  margin-left: 10%;
+}
+.appointmentContent {
+  margin-left: 40%;
+  margin-top: 30px;
+}
+h1,
+ h5 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h5 {
+  margin-top: 10px;
+}
+
+ .back-btn {
+  margin-left: 45%;
+  margin-top: 3%;
+}
